@@ -1,4 +1,3 @@
-/target
 /servers
 .classpath
 .project
@@ -6,9 +5,7 @@
 .idea
 nb-configuration.xml
 .DS_Store
-/thng-resource-model/target/
-/evrythng-java-wrapper/target/
-/evrythng-commons/target/
 *.versionsBackup
 nbactions*.xml
 *.iml
+target
